@@ -3,12 +3,14 @@
 
 ![SenTrEv logo](https://raw.githubusercontent.com/AstraBert/SenTrEv/main/logo.png)
 
----
+## Try the interactive version of this README in the related [Colab Notebook](./SenTrEvDemoNotebook.ipynb)
+
 ## Concepts📚
 
 ![Dictionary](https://positek.net/wp-content/uploads/2013/10/shutterstock_63985306_result.png)
 
 ---
+
 ### 1. Embeddings 
 
 > [!QUOTE]
