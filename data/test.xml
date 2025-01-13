@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Fiction</genre>
+        <published>1960</published>
+        <availability>Available</availability>
+    </book>
+    <book id="2">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <genre>Dystopian</genre>
+        <published>1949</published>
+        <availability>Checked Out</availability>
+    </book>
+    <book id="3">
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <genre>Romance</genre>
+        <published>1813</published>
+        <availability>Available</availability>
+    </book>
+</library>
