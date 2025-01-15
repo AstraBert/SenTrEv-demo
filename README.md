@@ -1,8 +1,12 @@
+<a target="_blank" href="https://colab.research.google.com/github/AstraBert/SenTrEv-demo/blob/main/SenTrEvDemoNotebook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+<br>
+<br>
 
 # SenTrEv📊
 
 ![SenTrEv logo](https://raw.githubusercontent.com/AstraBert/SenTrEv/main/logo.png)
-
 
 ## Concepts📚
 
