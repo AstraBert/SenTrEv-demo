@@ -127,7 +127,6 @@ python3 -m pip install sentrev
 ### How do we measure it?
 -  [`codecarbon`](https://codecarbon.io/) works with a scheduler and every 15s measures the **carbon intensity** of your running code based on the local grid (country or regional if on cloud)
 
->[!QUOTE]
 > _"Carbon Intensity of the consumed electricity is calculated as a weighted average of the emissions from the different energy sources that are used to generate electricity, including fossil fuels and renewables."_ See [here](https://mlco2.github.io/codecarbon/methodology.html#carbon-intensity)
 
 
