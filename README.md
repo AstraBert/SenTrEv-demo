@@ -204,8 +204,8 @@ client = QdrantClient("http://localhost:6333")
 
 ```python
 # Define CSV path where the stats will be saved
-csv_path_dense = "~/evals/dense/dense_stats.csv"
-csv_path_sparse = "~/evals/sparse/sparse_stats.csv"
+csv_path_dense = "~/evals/dense_stats.csv"
+csv_path_sparse = "~/evals/sparse_stats.csv"
 
 # Run evaluation for dense retrieval
 evaluate_dense_retrieval(files, dense_encoders, dense_encoder_to_names, client, csv_path_dense, chunking_size = 1500, text_percentage=0.3, distance="dot", mrr=10, carbon_tracking="AUT", plot=True)
